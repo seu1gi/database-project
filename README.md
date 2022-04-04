@@ -12,3 +12,6 @@ database project
 * 친구와 함께 일정 추가·수정하기
 * 여행 경비 관리하기
 * 여행 히스토리 보기
+
+### E-R 다이어그램
+![E-R diagram] (https://github.com/seu1gi/travel-planner/blob/main/E-R%20diagram.PNG?raw=true)
