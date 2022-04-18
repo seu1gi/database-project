@@ -9,4 +9,4 @@
 * 주문·배송 관리
 
 ### E-R 다이어그램
-![E-Rdiagram](https://github.com/seu1gi/travel-planner/blob/main/E-R%20diagram.PNG?raw=true)
+![E-Rdiagram](https://github.com/seu1gi/database-project/blob/main/E-R.PNG?raw=true)
