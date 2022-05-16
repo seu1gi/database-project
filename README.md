@@ -9,7 +9,7 @@
 * 주문·배송 관리
 
 ### E-R 다이어그램
-![E-Rdiagram](https://github.com/seu1gi/database-project/blob/main/E-R.PNG?raw=true)
+![E-Rdiagram](https://github.com/seu1gi/database-project/blob/main/E-R%20diagram.PNG?raw=true)
 
 ### 요구 사항 명세서
 1. 독립서점에 **회원**으로 가입하려면 **회원아이디**, **비밀번호**, **이름**, **주소**, **전화번호**를 입력해야 한다.
